@@ -1,4 +1,4 @@
-# android in-game GAMEPAD for SFML
+# GAMEPAD for touch devices written in SFML
 
 example:
 ```cpp
